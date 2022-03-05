@@ -13,3 +13,7 @@ Ruby | OOP programming language
 [Rich Media](https://github.com/plabon-asad/rich-media) | RM Resources
 [Web animation](https://github.com/plabon-asad/css-animations-ui) | CSS & JS animation
 [Cheatsheet](https://overapi.com/) | You learn from here easily any dev tech
+
+Free pdf book for tech-study & you can easily download to read <br>
+[Github link](https://github.com/Akshaya-Amar/Free-Programming-Books),
+[Download Pdf](https://goalkicker.com/)
