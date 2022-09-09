@@ -11,6 +11,7 @@ Name | Description | Self Study
 Ruby | OOP programming language | [Ruby study](https://github.com/plabon-asad/study-with-ruby)
 [Ruby on Rails](https://github.com/plabon-asad/learn-RoR) | Web framework | [RoR study](https://github.com/plabon-asad/study-with-ror)
 [JavaScript](https://overapi.com/javascript) | [jQuery](https://overapi.com/jquery) | [JS study](https://github.com/plabon-asad/study-with-js)
+[Angular](https://angular.io/) | List of important [topic1](https://www.dottedsquirrel.com/things-to-learn-angular/), [topic2](https://medium.com/@bhavikagarg8/important-topics-of-angular-5d51362ae78e) | [Angular study](https://github.com/plabon-asad/study-with-ng)
 [UI/ UX](https://designcode.io/) | Web, Mobile & Ads Design | [UI/UX study](https://github.com/plabon-asad/study-with-uiux)
 [Rich Media](https://github.com/plabon-asad/rich-media) | RM Resources | [RM study](https://github.com/plabon-asad/study-with-rm)
 [Web animation](https://github.com/plabon-asad/css-animations-ui) | CSS & JS animation | [Animation study](https://github.com/plabon-asad/study-with-animation)
