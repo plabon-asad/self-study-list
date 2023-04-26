@@ -18,6 +18,7 @@ Ruby | OOP programming language | [Ruby study](https://github.com/plabon-asad/st
 [Rich Media](https://github.com/plabon-asad/rich-media) | RM Resources | [RM study](https://github.com/plabon-asad/study-with-rm)
 [Web animation](https://github.com/plabon-asad/css-animations-ui) | CSS & JS animation | [Animation study](https://github.com/plabon-asad/study-with-animation)
 [Cheatsheet](https://overapi.com/) | You learn from here easily any dev tech | []()
+[iOS](https://medium.com/mobile-devops-ci-cd-ct/steps-to-create-ios-developer-and-distribution-certificates-with-and-without-a-mac-8449b973ef9d) | Steps to create ios-developer and distribution-certificate by Mac | []()
 
 Free pdf book for tech-study & you can easily download to read <br>
 [Github link](https://github.com/Akshaya-Amar/Free-Programming-Books),
