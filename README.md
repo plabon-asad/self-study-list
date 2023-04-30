@@ -29,8 +29,6 @@ Name | Description | Self Study
 ------------ | ------------- | -------------
 Apple Developer account | [Link](https://developer.apple.com/account) | Registration
 Registering | [Documentation](https://ionic.io/docs/appflow/package/credentials) | Registering your App ID
-Device Registration | [Documentation](https://ionic.io/docs/appflow/package/credentials) | Registering your App ID
-UDID | [Documentation](https://ionic.io/docs/appflow/package/ios-udid) | Get your UDID
+Device Registration | [Documentation](https://github.com/dotnet/docs-maui/blob/main/docs/ios/includes/add-a-device.md) | Registering your App ID
 Using Keychain Access | ... | Certificate Signing Request
-
 
