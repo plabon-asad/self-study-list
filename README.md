@@ -25,6 +25,15 @@ Free pdf book for tech-study & you can easily download to read <br>
 [Download Pdf](https://goalkicker.com/)
 
 ### iOS build process
+Respective List
+ - Make apple developer account
+ - Device Registration(iPhone)
+ - Using Keychain Access [Keychain Access › Certificate Assistant › Request Certificate From a Certificate Authority]
+ - Certificate Signing Request (CSR) <br>N.B. Make sure Not use ***Using OpenSSL* only use `Key Chain Access` procedure
+ - Upload it on App store -[Certificate, Identifiers & Profile -> Profile(Its a tab)]
+ - Download it and make a backup on secured place and then install it by double click.
+ - 
+
 Name | Description | Self Study
 ------------ | ------------- | -------------
 Apple Developer account | [Link](https://developer.apple.com/account) | Registration
