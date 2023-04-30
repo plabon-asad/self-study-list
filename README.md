@@ -23,3 +23,14 @@ Ruby | OOP programming language | [Ruby study](https://github.com/plabon-asad/st
 Free pdf book for tech-study & you can easily download to read <br>
 [Github link](https://github.com/Akshaya-Amar/Free-Programming-Books),
 [Download Pdf](https://goalkicker.com/)
+
+### iOS build process
+Name | Description | Self Study
+------------ | ------------- | -------------
+Apple Developer account | [Link](https://developer.apple.com/account) | Registration
+Registering | [Documentation](https://ionic.io/docs/appflow/package/credentials) | Registering your App ID
+Device Registration | [Documentation](https://ionic.io/docs/appflow/package/credentials) | Registering your App ID
+UDID | [Documentation](https://ionic.io/docs/appflow/package/ios-udid) | Get your UDID
+Using Keychain Access | ... | Certificate Signing Request
+
+
