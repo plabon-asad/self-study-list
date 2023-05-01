@@ -32,7 +32,10 @@ Respective List
  - Certificate Signing Request (CSR) <br>N.B. Make sure Not use ***Using OpenSSL* only use `Key Chain Access` procedure
  - Upload it on App store -[Certificate, Identifiers & Profile -> Profile(Its a tab)]
  - Download it and make a backup on secured place and then install it by double click.
- - 
+ - Convert the certificate from a `.cer `file to a `.p12` file using KeyChain Access [Doc link...](https://ionic.io/docs/appflow/package/credentials)
+ - Go to appstore connect and login there, [Link](https://appstoreconnect.apple.com/login)
+ 
+ 
 
 Name | Description | Self Study
 ------------ | ------------- | -------------
