@@ -25,7 +25,14 @@ Free pdf book for tech-study & you can easily download to read <br>
 [Download Pdf](https://goalkicker.com/)
 
 ### iOS build process
-Respective List
+Requirements:
+ - [Apple Developers Account](https://developer.apple.com/)
+ - [App Store connect Account](https://appstoreconnect.apple.com/login)
+ - Xcode installed on your Mac, [Available List](https://developer.apple.com/support/xcode/)
+ - [Ionic application](https://ionicframework.com/docs/developing/ios)
+ - [Capacitor](https://capacitorjs.com/docs/ios#adding-the-ios-platform)
+
+ToDo: Respective List of Work
  - Make apple developer account
  - Device Registration(iPhone)
  - Using Keychain Access [Keychain Access › Certificate Assistant › Request Certificate From a Certificate Authority]
@@ -33,8 +40,13 @@ Respective List
  - Upload it on App store -[Certificate, Identifiers & Profile -> Profile(Its a tab)]
  - Download it and make a backup on secured place and then install it by double click.
  - Convert the certificate from a `.cer `file to a `.p12` file using KeyChain Access [Doc link...](https://ionic.io/docs/appflow/package/credentials)
- - Go to appstore connect and login there, [Link](https://appstoreconnect.apple.com/login)
- 
+ - Go to appstore connect and login there, [URL](https://appstoreconnect.apple.com/login)
+ - For upload apps need to make another profile(distribution) certificate in "App store connect"
+ - Goto `Certificates, Identifiers & Profiles` click + icon, 
+ -  - select the "Apple Distribution option" and click on continue
+ -  - Now it will ask for “Certificate Signing Request” which we have to create using Mac.
+ -  - After everything done, download it and make it backup
+ -  - Now try to build iOS with "Archive" and Upload it on App store [Help link](https://enappd.com/blog/releasing-ionic-app-on-ios-app-store/199/)
  
 
 Name | Description | Self Study
