@@ -4,6 +4,7 @@ For self-development improvement I have study and practice regularly with many k
 ### The list of study topics
 Name | Description | Self Study
 ------------ | ------------- | -------------
+[Command Line](https://www.taniarascia.com/how-to-use-the-command-line-for-apple-macos-and-linux/) | Learn CommandLine step by step | [CL study](https://github.com/plabon-asad/study-with-commandLine), If you've never used the command line, this article will be extremely helpful to you.
 [Deployment](https://github.com/plabon-asad/study-with-deployment) | Learn Deployment step by step | Cloudflare, Vercel, Netlify, Github Page, Heroku, AWS
 [Roadmap 2022](https://roadmap.sh/) | Learn step by step | Testing...
 [Html CSS](https://roadmap.sh/) | Learn step by step | [Html, css advance help](https://github.com/plabon-asad/study-with-html-css)
