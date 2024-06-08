@@ -1,6 +1,10 @@
 # Self Study List
 For self-development improvement I have study and practice regularly with many kind of language at home  
 
+## Quick start application as like boilerplate
+- Follow [SEO + Structure ready](https://github.com/kevinuehara/devto-frontend-challenge-june/blob/main/index.html), Study [Semantic_elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
+
+
 ### The list of study topics
 Name | Description | Self Study
 ------------ | ------------- | -------------
