@@ -66,3 +66,10 @@ Registering | [Documentation](https://ionic.io/docs/appflow/package/credentials)
 Device Registration | [Documentation](https://github.com/dotnet/docs-maui/blob/main/docs/ios/includes/add-a-device.md) | Registering your App ID
 Using Keychain Access | ... | Certificate Signing Request
 
+### Issue List
+Name | Command | Description | Link
+------------ | ------------- | ------------- | -------------
+Snap installed double applications | See list: `sudo snap list --all` , remove specific like webstorm-apps: `sudo snap remove webstorm --revision=495` | snap installed sometimes multiple version application, see list and remove disabled version | [Tutorial-Link]()
+
+
+
