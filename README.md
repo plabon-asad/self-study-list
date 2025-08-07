@@ -7,6 +7,7 @@ For self-development improvement I have study and practice regularly with many k
 ### Recent Study
 Name | Description | Self Study
 ------------ | ------------- | -------------
+Redis | Install redis in Ubuntu 22.04, and then start study with development | [Help Link](redis-doc.md)
 Docker & WP | I want to install docker in Ubuntu 22.04, and then start development Wordpress with docker | [Help Link](https://github.com/plabon-asad/study-with-docker)
 
 ### The list of study topics
